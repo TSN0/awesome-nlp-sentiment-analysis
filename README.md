@@ -118,6 +118,9 @@
 24. **Coupled multi-layer attentions for co-extraction of aspect and opinion terms.**
 [paper](http://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
 
+25. **An Unsupervised Neural Attention Model for Aspect Extraction（ACL2017He）.**
+[paper](https://aclanthology.org/P17-1036.pdf)
+[code](https://github.com/ruidan/Unsupervised-Aspect-Extraction)
 # :floppy_disk: Dataset
 
 ## 评价对象和评价词抽取
